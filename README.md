@@ -1,0 +1,2 @@
+# WelcometoPython
+Global Hack Camp
